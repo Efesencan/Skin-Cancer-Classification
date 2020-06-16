@@ -13,5 +13,5 @@ For further information about the project, please take a look at the CS412 Proje
 
 Kaggle Competition link: https://www.kaggle.com/c/machinelearning412-skincancerclassification/overview 
 
-Note: We became 2nd among the 23 groups in the competition.
+Note: We became 2nd among the 23 groups in the competition with 81.66% classification accuracy.
 
