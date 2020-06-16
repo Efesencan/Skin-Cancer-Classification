@@ -1,7 +1,7 @@
 # Skin-Cancer-Classification
 Convolutional Neural Network<br/>
 
-<br/><br/>
+
 
 1) Problem Definition<br/>
 Our goal is to build a machine learning model that classifies 5 different types of skin cancers with best accuracy possible based on the
