@@ -2,7 +2,7 @@
 Convolutional Neural Network<br/>
 
 
-#CS 412(Machine Learning)Project Report <br/><br/>
+# CS 412(Machine Learning)Project Report <br/><br/>
 
 1) Problem Definition
 Our goal is to build a machine learning model that classifies 5 different types of skin cancers with best accuracy possible based on the
